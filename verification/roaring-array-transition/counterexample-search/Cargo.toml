@@ -1,0 +1,10 @@
+[package]
+name = "roaring-array-transition-search"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+[dependencies]
+roaring = { path = "../../../roaring" }
+
+[workspace]
